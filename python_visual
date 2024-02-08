@@ -2,8 +2,8 @@
 """
 Can be played by 2 people or against the computer.
 For the latter, there are 3 difficulty levels:
-    1 - the oponent moves randomly
-    2 - the first few moves are stretegic, the rest are rendom
+    1 - the opponent moves randomly
+    2 - the first few moves are strategic, the rest are random
     3 - most moves are strategic
 """
 
