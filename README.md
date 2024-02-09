@@ -12,3 +12,6 @@ For a single-player game, there are 3 difficulty levels:
 2 - cpp_text (Time of development: 01/2024)
 
 This is an extremely simple two-player tic-tac-toe game. The moves are visualized with text (x, ., or o), and the user inputs which row and column they want to place x or o in.
+
+3 - android_visual (Time of development: 07/2023)
+
